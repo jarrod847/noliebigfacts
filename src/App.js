@@ -11,16 +11,16 @@ function App() {
       <div className="container">
         <img className="logo" src={logo} />
         <div className="socials">
-          <a href="https://twitter.com/SkahillJarrod">
+          <a href="https://twitter.com/NoLieBigfacts">
             <img src={twitter} />
           </a>
           <a href="https://www.youtube.com/channel/UCLpmWRfga-0AHqp-fHYDdDg">
             <img src={youtube} />
           </a>
-          <a href="">
+          <a href="https://www.instagram.com/noliebigfacts/">
             <img src={insta} />
           </a>
-          <a href="">
+          <a href="https://www.tiktok.com/@noliebigfacts">
             <img src={tik}></img>
           </a>
         </div>
