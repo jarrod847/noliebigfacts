@@ -5,7 +5,10 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <img className="logo" src={logo}></img>
+        <img className="logo" src={logo} />
+        <div>
+          <a href="https://twitter.com/SkahillJarrod">Twitter</a>
+        </div>
       </div>
     </div>
   );
