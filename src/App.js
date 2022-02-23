@@ -8,6 +8,7 @@ function App() {
         <img className="logo" src={logo} />
         <div>
           <a href="https://twitter.com/SkahillJarrod">Twitter</a>
+          <a></a>
         </div>
       </div>
     </div>
