@@ -20,7 +20,7 @@ function App() {
           <a href="">
             <img src={insta} />
           </a>
-          <a>
+          <a href="">
             <img src={tik}></img>
           </a>
         </div>
