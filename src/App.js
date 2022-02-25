@@ -4,6 +4,7 @@ import twitter from "./imgs/twitter.png";
 import youtube from "./imgs/you.png";
 import insta from "./imgs/insta.png";
 import tik from "./imgs/tik2.png";
+import twitch from "./imgs/twitch.png";
 
 function App() {
   return (
@@ -21,7 +22,10 @@ function App() {
             <img src={insta} />
           </a>
           <a href="https://www.tiktok.com/@noliebigfacts">
-            <img src={tik}></img>
+            <img src={tik} />
+          </a>
+          <a href="https://www.twitch.tv/noliebigfacts">
+            <img src={twitch} />
           </a>
         </div>
       </div>
